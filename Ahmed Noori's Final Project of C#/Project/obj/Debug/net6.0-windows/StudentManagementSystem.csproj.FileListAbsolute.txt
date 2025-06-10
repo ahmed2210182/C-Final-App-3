@@ -1,0 +1,126 @@
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\hussein\Downloads\StudentManagementSystem_FinalFixed2 (2)\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.DashboardForm.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ViewStudentsForm.resources
+C:\Users\husson\OneDrive - American University of Iraq-Baghdad\Desktop\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ReportsForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.DashboardForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ViewStudentsForm.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\karra\Desktop\StudentManagementSystem_FinalFixedff\StudentManagementSystem_FinalFixed2\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.DashboardForm.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ViewStudentsForm.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Documents\C#FinalProject\C#FinalProject\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ReportsForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.AddStudentForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.DashboardForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.EditStudentForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ReportsForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Forms.ViewStudentsForm.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\THE PIRATE\Pictures\Ahmed Noori's Final Project of C#\Project\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll

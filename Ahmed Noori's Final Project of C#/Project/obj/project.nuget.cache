@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PRtLvBb9No=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THE PIRATE\\Pictures\\Ahmed Noori's Final Project of C#\\Project\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THE PIRATE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\THE PIRATE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\THE PIRATE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\THE PIRATE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
